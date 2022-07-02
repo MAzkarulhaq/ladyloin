@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Jockey+One&display=swap");
+
+.bg-pink {
+  background-color: #e43192;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+}
+.logo {
+  font-family: "Jockey One", sans-serif;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+.logo:hover {
+  color: #fff;
+}
+.m1 {
+  font-family: "M PLUS 1", sans-serif;
+  font-size: 1rem;
+}
+.m1:hover {
+  color: #e43192;
+}
